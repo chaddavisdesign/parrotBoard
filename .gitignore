@@ -19,9 +19,6 @@ _saved_*
 *.csv
 *.xml
 
-# Gerbers
-*.gbr
-
 # Drill files
 *.drl
 
